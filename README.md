@@ -1,3 +1,3 @@
 ## WebScaper
 
-### Testing puppeteer web scraper
+### Testing PUPPETEER web scraper
