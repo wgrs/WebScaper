@@ -1,3 +1,3 @@
-# WebScaper
+## WebScaper
 
-### Just testing puppeteer web scraper
+### Testing puppeteer web scraper
